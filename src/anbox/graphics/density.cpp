@@ -20,7 +20,7 @@
 namespace anbox {
 namespace graphics {
 DensityType current_density() {
-  return DensityType::tv;
+  return DensityType::xhigh;
 }
 
 int dp_to_pixel(unsigned int dp) {
